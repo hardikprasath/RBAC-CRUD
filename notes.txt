@@ -1,0 +1,7 @@
+server:
+npm start
+
+------------
+
+Client:
+npm run dev
